@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bgivens-cloud
 - 👀 I’m interested in coding and programming. Hopefully learning from others
-- 🌱 I’m currently learning Scala and Tensorflow.
+- 🌱 I’m currently learning SQL and Ruby.
 - 📫 How to reach 
 
 <!---
